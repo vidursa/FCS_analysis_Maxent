@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='FCS_analysis_Maxent',
+setup(name='fcsanalysis',
       version='0.1a',
       description='FCS analysis.',
       packages=['fcsanalysis'],
