@@ -1,9 +1,9 @@
 from setuptools import setup
 
-setup(name='fcsanalysis',
+setup(name='FCS_analysis_Maxent',
       version='0.1a',
       description='FCS analysis.',
-      packages=['fcsanalysis'],
+      packages=['FCS_analysis_Maxent'],
       install_requires=['numpy==1.15.3',
                         'pandas==0.23.4',
                         'matplotlib==3.0.0',
